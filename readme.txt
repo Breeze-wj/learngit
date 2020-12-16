@@ -1,3 +1,3 @@
-This is readme file!
+This is tmplearngit!
 Creating a new branch is quick and simple.
 Switch to a new branch 'dev'
