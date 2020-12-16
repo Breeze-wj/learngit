@@ -1,4 +1,4 @@
-This is readme file!
+This is git_test file!
 Creating a new branch is quick and simple.
 Switch to a new branch 'dev'
 Git is a free software...
