@@ -1,4 +1,3 @@
-This is git_test file by git_test rebase!
-Creating a new branch is quick and simple.
+This is git_test file by git_test rebase!Creating a new branch is quick and simple.
 Switch to a new branch 'dev'
 Git is a free software and very good software! by git_test
